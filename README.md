@@ -3,6 +3,7 @@ Developed a Java application with a server and a client program, where the serve
 
 
 ===============================================================
+
 This file contains information about an Internet chat application with a server program and a client program. The server program manages the chat room and allows any number of clients to join the chat room and start a conversation. The client should include it's name and the server port number, where the server is running and ready to take commands from the client. 
 We recommend that you read this file to know more about the commands and the format to give those commands. 
 
