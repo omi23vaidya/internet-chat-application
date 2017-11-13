@@ -5,7 +5,7 @@ Sravanthi Charugundla
 
 ===============================================================
 This file contains information about an Internet chat application with a server program and a client program. The server program manages the chat room and allows any number of clients to join the chat room and start a conversation. The client should include it's name and the server port number, where the server is running and ready to take commands from the client. 
-We recommend that you read this file to know more about the commands and the format to give those commands. 
+I recommend that you read this file to know more about the commands and the format to give those commands. 
 
 ===============================================================
 
@@ -16,7 +16,7 @@ To run through a command prompt in Windows
 	-Go to start menu and in search bar type 'cmd' and press 'Enter'
 	-Change the working directory in cmd using 'cd' command, to the directory where the Server.java program is saved
 	-Type set path="address of bin in jdk"
-	-Type 'java Server ''portnumber''' to run the Server program on the port number specified in the command
+	-Type 'java Server2 ''portnumber''' to run the Server program on the port number specified in the command
 	-Now open another 'cmd' for running clients. For multiple clients, open equal number of command prompts. Set the directory of every cmd to the location where Client.java is saved.
 	-Type set path="address of bin in jdk"
 	-Type 'java Client clientname server_port_number'
